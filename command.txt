@@ -1,0 +1,62 @@
+rnf
+npx expo
+// INSTALLING NATIVEWIND
+npm i nativewind
+npm i -D tailwindcss@3.3.2
+npx tailwindcss init
+
+
+// INSTALLING NATIVEWIND V4
+npm install nativewind@^4.0.1 react-native-reanimated tailwindcss
+npx pod-install
+npm i -D tailwindcss@3.3.2
+npx tailwindcss init
+
+
+// UNINSTALL
+npm uninstall nativewind
+
+
+
+
+npm install @react-native-async-storage/async-storage
+npm install axios
+expo install expo-checkbox
+
+npx expo install expo-font
+npx expo install @react-native-async-storage/async-storage
+npx expo install @react-native-picker/picker
+npx expo install expo-checkbox
+npx expo install @shopify/flash-list
+npx expo install expo-linear-gradient
+npx expo install @gorhom/bottom-sheet react-native-reanimated react-native-gesture-handler
+npx expo install react-native-gesture-handler
+npm install -g yarn
+npm install @gorhom/portal
+npm install --save luxon
+npx expo install expo-camera
+npx expo install @shopify/react-native-skia
+npx expo install lottie-react-native
+npx expo install react-native-svg
+npm install date-fns
+npm install --save react-native-collapsible
+npx expo install expo-crypto
+npx expo install expo-constants
+npm install crypto-js@3.3.0 --save
+npm install @react-navigation/stack
+npx expo install react-native-view-shot expo-media-library
+npx expo prebuild -> react native to android studio
+npx expo publish
+npm install -g eas-cli
+eas login
+eas build:configure
+eas credentials
+eas update
+eas build --platform android
+ Build Credentials eW8mJTUU4W
+eas build --platform android
+npx expo install expo-device
+
+
+
+

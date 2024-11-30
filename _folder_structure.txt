@@ -1,0 +1,155 @@
+        lizaso-laundry-hub/
+        │
+        ├── .expo/  
+        ├── app/
+        │   ├── (customer)/
+        │   ├── (staff)/
+        │   │   ├── _layout.jsx
+        │   │   ├── delivery.jsx
+        │   │   ├── inbox.jsx
+        │   │   ├── pickup.jsx
+        │   │   └── profile.jsx
+        │   ├── auth/
+        │   │   ├── sign-in/
+        │   │   │    └── index.js
+        │   │   └── sign-ups/
+        │   │        └── index.js
+        │   ├── message/
+        │   │   └── chat.jsx
+        │   ├── notification/
+        │   │   └── index.js                                                                     
+        │   ├── _layout.tsx   
+        │   └── index.tsx   
+        ├── assets/
+        │    └── images/
+        ├── components/
+        │   ├── Onboarding.jsx
+        │   ├── TabBar.jsx
+        │   └── TabBarButton.jsx
+        ├── constants/
+        ├── data/
+        │   └──api
+        ├── hooks/
+        ├── node_modules/
+        ├── scripts/
+        ├── .gitignore
+        ├── app.json
+        ├── babel.config.js
+        ├── expo-env.d.ts
+        ├── package-lock.json
+        ├── package.json
+        ├── README.md
+        └── tsconfig.json 
+
+
+
+
+│   ├── message/
+│   │   └── chat.jsx     
+│   ├── _layout.tsx   
+│   └── index.tsx   
+├── assets/
+
+
+
+[
+  "expo-notifications",
+  {
+    "icon": "./local/assets/lizaso_logo.png",
+    "color": "#ffffff",
+    "defaultChannel": "default",
+    "sounds": [
+      "./local/assets/notification-sound.wav",
+      "./local/assets/notification-sound-other.wav"
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+│   ├── src/
+│   │   ├── assets/
+│   │   │     ├── image/
+│   │   │     └── upload/               
+│   │   ├── components/
+│   │   │     ├──ProtectedRoute/jsx
+│   │   │     ├──common/
+│   │   │     │    ├── ProtectedRoute.jsx   
+│   │   │     │    └── Navbar.jsx   
+│   │   │     └──landing-page/          
+│   │   ├── contexts/
+│   │   │     └──AuthContext.jsx/           
+│   │   ├── hooks/
+│   │   │     ├──useLoginForm.jsx/ 
+│   │   │     └──useRegisterForm.jsx/              
+│   │   ├── pages/
+│   │   │     ├──admin/                          
+│   │   │     │     └──main.jsx/               
+│   │   │     └──customer/                                    
+│   │   │           └──mainCustomer.jsx/                          
+│   │   ├── services/
+│   │   │     └──api/
+│   │   │          └──authClient.jsx/              
+│   │   ├── styles/             
+│   │   ├── utils/              
+│   │   ├── App.jsx            
+│   │   ├── index.jsx           
+│   │   └── main.jsx            
+│   ├── .gitignore              
+│   ├── package.json           
+│   ├── postcss.config.js      
+│   ├── tailwind.config.js     
+│   └── vite.config.js
+
+
+
+
+lizaso-laundry-hub/
+│
+├── .expo/  
+├── app/
+│   ├── (customer)/
+│   ├── (staff)/
+│   │   ├── layout.jsx
+│   │   ├── delivery.jsx
+│   │   ├── history.jsx
+│   │   ├── pickup.jsx
+│   │   └── profile.jsx
+│   ├── (tabs)/
+│   │   ├── layout.jsx
+│   │   ├── home.jsx
+│   │   └── profile.jsx
+│   ├── auth/
+│   │   ├── sign-in/
+│   │   │    └── index.js
+│   │   └── sign-ups/
+│   │        └── index.js
+│   ├── _layout.tsx   
+│   └── index.tsx   
+├── assets/
+├── components/
+│   ├── Onboarding.jsx
+│   └── 
+├── constants/
+├── data/
+│   └──api
+├── hooks/
+├── node_modules/
+├── scripts/
+├── .gitignore
+├── app.json
+├── babel.config.js
+├── expo-env.d.ts
+├── package-lock.json
+├── package.json
+├── README.md
+└── tsconfig.json 
+1
