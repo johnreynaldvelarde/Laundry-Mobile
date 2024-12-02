@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Lizaso Laundry Hub",
-    "slug": "lizaso-laundry-hub-mobile",
+    "slug": "laundry-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -18,7 +18,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "136439ce-a143-469a-9a5d-d8a61695aafa"
+        "projectId": "67db3361-504c-4061-b790-9eb902265c93"
       }
     },
     "ios": {
@@ -72,6 +72,7 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "owner": "guze16"
   }
 }
